@@ -1,0 +1,18 @@
+{
+  "name": "trainingdemo",
+  "version": "1.0.0",
+  "description": "Automation Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "jasmine": "^4.1.0",
+    "protractor": "^7.0.0",
+    "typescript": "^4.7.3",
+    "webdriver-manager": "^12.1.8"
+  }
+}
